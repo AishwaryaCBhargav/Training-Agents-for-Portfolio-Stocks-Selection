@@ -1,0 +1,2 @@
+# Training-Agents-for-Portfolio-Stocks-Selection
+In this study, Reinforcement Learning is applied to optimise stocks selection to build an optimal investor portfolio. The agent (artificial intelligence used in decision making) will be designed to support an investor’s decision-making while selecting the stocks that should be included or excluded from the portfolio, so as to maximise the stock returns/profits.
